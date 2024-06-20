@@ -1,6 +1,6 @@
 import React from 'react';
 import { useFavorites } from './FavoritesContext';
-import NewsItem from './NewsItem'
+import NewsItem from './Newsitem'
 
 const Favorites = () => {
     const { favorites } = useFavorites();

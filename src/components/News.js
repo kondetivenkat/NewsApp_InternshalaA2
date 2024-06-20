@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import NewsItem from './NewsItem'
+import NewsItem from './Newsitem';
 import Spinner from './Spinner';
 import PropTypes from 'prop-types';
 
